@@ -10,7 +10,7 @@ Aspiring Ful Stack Developer
 - Tools: Git, GitHub, Eclipse, VirtualStudio, Xcode
 
 ## Projects
-- **ChatGPTvsGemini APP(Swift + C)**
+- **AI-COMPARISON-APP(Swift + C)**
   (More Projects Coming Soon...)
   
 ## Contact
