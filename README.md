@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Kostas
+Computer Science Student 
+Interested in Web Development, App Development
+Aspiring Ful Stack Developer
 
-<!--
-**koandris/koandris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Skills 
+- Languages: Java, C, Swift, Python
+-Assembly: MIPS, ARM64
+-Databases: MySQL
+-Tools: Git, GitHub, Eclipse, VirtualStudio, Xcode
 
-Here are some ideas to get you started:
+## Projects
+- **ChatGPTvsGemini APP(Swift + C)**
+  (More Projects Coming Soon...)
+  
+## Contact
+-LinkedIn: https://www.linkedin.com/in/konstantinos-andris-014627210/
+-SocialMedia:
+  -Instagram: @andrhss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
