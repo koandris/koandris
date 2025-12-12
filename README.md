@@ -5,8 +5,11 @@ Aspiring Ful Stack Developer
 
 ## Tech Skills 
 - Languages: Java, C, Swift, Python
+
 -Assembly: MIPS, ARM64
+
 -Databases: MySQL
+
 -Tools: Git, GitHub, Eclipse, VirtualStudio, Xcode
 
 ## Projects
