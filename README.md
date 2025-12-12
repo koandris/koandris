@@ -11,6 +11,21 @@ Aspiring Ful Stack Developer
 
 ## Projects
 - **AI-COMPARISON-APP(Swift + C)**
+  -  iOS app built in Swift that compares AI responses.
+
+     ## Features
+     - User input
+     - AI selection
+     - Clean UI
+
+     ## Tech
+     - Swift
+     - C
+     - UIKit / SwiftUI
+     - MVC
+
+
+
   (More Projects Coming Soon...)
   
 ## Contact
